@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app modify by VSCODE Online
+		to your new<br />SvelteKit app modify
 	</h1>
 
 	<h2>
