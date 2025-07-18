@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app modify
+		to your new<br />SvelteKit app modify por NM
 	</h1>
 
 	<h2>
